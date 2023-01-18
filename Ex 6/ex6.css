@@ -1,0 +1,26 @@
+
+img{
+    width: 200px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    height: 190px;
+    display: flex;
+}
+
+.A{
+margin-left: 10px;
+}
+
+.B{
+    margin-left: 120px;
+    
+}
+
+.C{
+    margin-left: 240px;
+    
+}
+
+.D{
+    margin-left: 340px;
+}
